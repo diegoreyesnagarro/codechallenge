@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cox.CodeChallenge.Domain\Cox.CodeChallenge.Domain.csproj" />
+    <ProjectReference Include="..\Cox.CodeChallenge.Vehicles.Model\Cox.CodeChallenge.Vehicles.Model.csproj" />
+  </ItemGroup>
+
+</Project>
